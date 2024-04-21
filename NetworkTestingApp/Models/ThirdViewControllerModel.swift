@@ -6,3 +6,10 @@
 //
 
 import Foundation
+
+struct ThirdViewControllerModel: Decodable{
+    let title: String
+    let body: String
+    
+ 
+}

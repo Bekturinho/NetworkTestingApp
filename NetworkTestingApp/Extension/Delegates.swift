@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+protocol DelegateForSecondView{
+    func getData()
+}
+
